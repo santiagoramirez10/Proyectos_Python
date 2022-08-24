@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1009</width>
+    <height>655</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>301</width>
+      <height>91</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:24pt; font-weight:600;&quot;&gt;Series de Fourier y&lt;/span&gt;&lt;/p&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:24pt; font-weight:600;&quot;&gt;de Potencia&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="METODO">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>60</y>
+      <width>171</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Numpy</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Gauss-Seidel</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QPushButton" name="GRAFICAR1">
+    <property name="geometry">
+     <rect>
+      <x>840</x>
+      <y>60</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Graficar</string>
+    </property>
+   </widget>
+   <widget class="QWidget" name="mplwindow" native="true">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>180</y>
+      <width>371</width>
+      <height>301</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <layout class="QVBoxLayout" name="Grafica">
+     <property name="sizeConstraint">
+      <enum>QLayout::SetDefaultConstraint</enum>
+     </property>
+    </layout>
+   </widget>
+   <widget class="QWidget" name="mplwindow_2" native="true">
+    <property name="geometry">
+     <rect>
+      <x>400</x>
+      <y>180</y>
+      <width>361</width>
+      <height>301</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <layout class="QVBoxLayout" name="Grafica_2">
+     <property name="sizeConstraint">
+      <enum>QLayout::SetDefaultConstraint</enum>
+     </property>
+    </layout>
+   </widget>
+   <widget class="QComboBox" name="SENAL">
+    <property name="geometry">
+     <rect>
+      <x>330</x>
+      <y>10</y>
+      <width>171</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Prueba O1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Senal_prueba</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal2</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal3</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal4</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal5</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal6</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal7</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal8</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal9</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal10</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal11</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal12</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal13</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal14</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal15</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal16</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal17</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal18</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal19</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal20</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal21</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal22</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal23</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal24</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal25</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal26</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal27</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal28</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>senal29</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLineEdit" name="ITERACIONES_GS">
+    <property name="geometry">
+     <rect>
+      <x>730</x>
+      <y>60</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="ITERACIONES">
+    <property name="geometry">
+     <rect>
+      <x>620</x>
+      <y>60</y>
+      <width>101</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="COLUMNA">
+    <property name="geometry">
+     <rect>
+      <x>510</x>
+      <y>10</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Columna 1</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Columna 2</string>
+     </property>
+    </item>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>120</y>
+      <width>251</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600; font-style:italic;&quot;&gt;Señal Original&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>70</y>
+      <width>91</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Iteraciones:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>600</x>
+      <y>100</y>
+      <width>131</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Terminos Serie&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>740</x>
+      <y>100</y>
+      <width>91</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:12pt;&quot;&gt;Gauss-Seidel&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="ERROR">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>280</y>
+      <width>251</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Calibri</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <italic>true</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="GRAFICAR2">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>200</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Generar Senoidal</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="SISTEMA">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>130</y>
+      <width>231</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Calibri</family>
+      <pointsize>14</pointsize>
+      <weight>75</weight>
+      <italic>true</italic>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:26pt; font-weight:400; font-style:normal;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="GRAFICAR3">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>120</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Generar Cuadrada</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="GRAFICAR4">
+    <property name="geometry">
+     <rect>
+      <x>780</x>
+      <y>160</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Generar Rampa</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="SERIE">
+    <property name="geometry">
+     <rect>
+      <x>660</x>
+      <y>10</y>
+      <width>121</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <item>
+     <property name="text">
+      <string>Fourier</string>
+     </property>
+    </item>
+    <item>
+     <property name="text">
+      <string>Potencia</string>
+     </property>
+    </item>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1009</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
