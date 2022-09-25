@@ -1,0 +1,1 @@
+En este proyecto se programa en Python una clase llamada "Matriz" que modela las matrices y sus operaciones básicas.
