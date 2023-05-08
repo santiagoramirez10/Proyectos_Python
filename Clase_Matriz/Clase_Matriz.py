@@ -291,3 +291,10 @@ class Matriz():
         #Si el parámetro no es válido
         else:
             print("Argumento debe ser matriz o entero")
+      
+estudiantes=0
+try:
+    while estudiantes<10:
+        estudiantes=int(input("digite los estudiantes: "))
+except:
+    input("digite los estudiantes: ")

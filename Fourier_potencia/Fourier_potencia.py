@@ -245,8 +245,8 @@ class Main(QMainWindow, Ui_MainWindow):#se define la clase Main en la cual
         self.canvas.draw()
         self.toolbar = NavigationToolbar(self.canvas, 
                 self.mplwindow, coordinates=True)#se coloca la señal original en
-                                                 #el espacio determinado
-        self.Grafica.addWidget(self.toolbar)
+                   ITERACIONES                              #el espacio determinado
+        self.Grafica.addWidget(self.toolbar)z
         self.metodo = self.METODO.currentText()#metodo de solucion de interes
         if self.metodo=="Numpy":#se realiza la solucion del sistema por numpy
             y1=self.Numpy(T,s1,s2)
@@ -534,3 +534,5 @@ if __name__ == '__main__':
     main = Main()#se inicia la clase 
     main.show()#se muestra la interfaz
     sys.exit(app.exec_()) 
+    
+    ERROR
