@@ -1,1 +1,0 @@
-En este proyecto se programa en Python un código que crea una fecha y una hora aleatoria, siendo la fecha escogida en un rango de fechas especificadas por el usuario.

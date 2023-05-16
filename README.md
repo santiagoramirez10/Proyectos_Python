@@ -18,15 +18,15 @@
 <h2>Listado de proyectos</h2>
 
 <ul>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Base_datos_SQL">Crear base de datos SQL</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Clase_Matriz">Clase matriz</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Divisores_comunes">Divisores comunes de un número</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Escribir_excel">Escribir datos en Excel</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Fecha_aleatoria">Generar fecha aleatoria</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Fourier_potencia">Series de Fourier y de potencia</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/reto_innovacion_social">Reto innovacion social</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Listar_archivos">Listar_archivos</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Matriz_identidad">Matriz_identidad</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Ondas_senoidales">Ondas_senoidales</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Residuos_platano_maiz">Residuos_platano_maiz</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Base_datos_SQL">Crear base de datos SQL.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Clase_Matriz">Clase matriz.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Divisores_comunes">Divisores comunes de un número.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Escribir_excel">Escribir datos en Excel.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Fecha_aleatoria">Generar fecha aleatoria.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Fourier_potencia">Series de Fourier y de potencia.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/reto_innovacion_social">Reto innovación social.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Listar_archivos">Lista de archivos de una carpeta.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Matriz_identidad">Generar matriz identidad.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Ondas_senoidales">Ondas senoidales.</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Residuos_platano_maiz">Residuos de plátano y maíz.</a></li>
 </ul>

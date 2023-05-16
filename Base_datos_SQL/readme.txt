@@ -1,1 +1,0 @@
-En este proyecto se programa en Python un código para crear una base de datos llamada mis_datos y en esta base de datos se colocan "mis datos" personales.

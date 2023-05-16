@@ -1,1 +1,0 @@
-En este proyecto se programa en Python un código que escriba una fila de datos en el programa Excel; todo esto gracias a la librería xlsxwriter que nos permite crear archivos o abrir ya existentes para escribir datos en ellos.
