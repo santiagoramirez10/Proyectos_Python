@@ -24,9 +24,9 @@
     <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Escribir_excel">Escribir_excel</a></li>
     <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Fecha_aleatoria">Fecha_aleatoria</a></li>
     <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Fourier_potencia">Fourier_potencia</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Innovacion social">Innovacion social</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/reto_innovacion_social">Innovacion social</a></li>
     <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Listar_archivos">Listar_archivos</a></li>
     <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Matriz_identidad">Matriz_identidad</a></li>
     <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Ondas_senoidales">Ondas_senoidales</a></li>
-    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Residuos platano y maiz">Residuos platano y maiz</a></li>
+    <li><a href="https://github.com/santiagoramirez10/Proyectos_Python/tree/main/Residuos_platano_maiz">Residuos platano y maiz</a></li>
 </ul>
