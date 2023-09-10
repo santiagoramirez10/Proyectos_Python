@@ -1,0 +1,1 @@
+En este proyecto se programa en Python un código donde hay una función que retorna una lista con los divisores comunes de 2 números que son ingresados como argumentos de la función.

@@ -1,0 +1,1 @@
+En este proyecto se programa en Python un código que permite listar los archivos de un directorio, en este caso, imprime los archivos que se encuentran en la carpeta donde se encuentre el código de Python (ignorando este mismo).

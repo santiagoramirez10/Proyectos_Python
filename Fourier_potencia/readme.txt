@@ -1,0 +1,1 @@
+Este proyecto tiene como objetivo general, desarrollar una clase que permita visualizar y analizar señales discretas de medidas, aplicando representacion matricial por series de Fourier y series de potencia

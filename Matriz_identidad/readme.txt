@@ -1,0 +1,1 @@
+En este proyecto se programa en Python un código donde hay una función que crea una matriz identidad del tamaño n que el usuario escoja, n debe ser mayor a 0, de lo contrario, se retornara una lista vacía.
