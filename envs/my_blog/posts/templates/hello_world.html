@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Hola mundo</h1>
+    <p>Hola, soy Santiago Ramírez Pérez</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima tenetur quaerat quidem cum a accusantium enim,
+        sunt voluptate eaque totam sit quo qui molestias quas. Voluptates sint debitis velit praesentium a! Explicabo
+        eaque inventore quo facilis sapiente repellat, hic minima!</p>
+    <p>{{name}}</p>
+    <p>Tengo {{years}} años</p>
+    <h3>Los lenguajes que manejo son:</h3>
+    {% for code in codes %}
+    <ul>
+        <li>{{code}}</li>
+    </ul>
+    {% endfor %}
+</body>
+</html>
