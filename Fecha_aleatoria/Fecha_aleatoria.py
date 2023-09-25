@@ -13,5 +13,10 @@ mes=str(random_date.month)
 anio=str(random_date.year)
 hora=str(random_date.hour)
 minuto=str(random_date.minute)
-print("Fecha: "+dia+"/"+mes+"/"+año)
+if len(hora)==1:
+  hora="0"+hora
+if len(minuto)==1:
+  minuto="0"+minuto
+
+print("Fecha: "+dia+"/"+mes+"/"+anio)
 print("Hora: "+hora+":"+minuto)
