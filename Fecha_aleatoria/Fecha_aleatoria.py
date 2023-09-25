@@ -13,6 +13,10 @@ mes=str(random_date.month)
 anio=str(random_date.year)
 hora=str(random_date.hour)
 minuto=str(random_date.minute)
+if len(dia)==1:
+  dia="0"+dia
+if len(mes)==1:
+  mes="0"+mes
 if len(hora)==1:
   hora="0"+hora
 if len(minuto)==1:
